@@ -1,0 +1,36 @@
+E:\KHope\KHopeClient\KHopeClient\bin\Debug\KHopeClient.exe.config
+E:\KHope\KHopeClient\KHopeClient\bin\Debug\KHopeClient.exe
+E:\KHope\KHopeClient\KHopeClient\bin\Debug\KHopeClient.pdb
+E:\KHope\KHopeClient\KHopeClient\bin\Debug\LayeredSkin.dll
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.frmLogin.resources
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.Properties.Resources.resources
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.csproj.GenerateResource.Cache
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.csproj.CoreCompileInputs.cache
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.exe
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.pdb
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.frmWorkPlan.resources
+E:\KHope\KHopeClient\KHopeClient\bin\Debug\MiniBlink.dll
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.frmHome.resources
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.frmNode.resources
+E:\KHope\KHopeClient\KHopeClient\bin\Debug\System.Data.SQLite.dll
+E:\KHope\KHopeClient\KHopeClient\bin\Debug\Newtonsoft.Json.dll
+E:\KHope\KHopeClient\KHopeClient\bin\Debug\System.Net.Http.dll
+E:\KHope\KHopeClient\KHopeClient\obj\Debug\KHopeClient.csprojResolveAssemblyReference.cache
+E:\KHope\KHopeClient - 副本\KHopeClient\bin\Debug\KHopeClient.exe.config
+E:\KHope\KHopeClient - 副本\KHopeClient\obj\Debug\KHopeClient.exe
+E:\KHope\KHopeClient - 副本\KHopeClient\obj\Debug\KHopeClient.pdb
+E:\KHope\KHopeClient - 副本\KHopeClient\obj\Debug\KHopeClient.csprojResolveAssemblyReference.cache
+E:\KHope\KHopeClient - 副本\KHopeClient\obj\Debug\KHopeClient.frmHome.resources
+E:\KHope\KHopeClient - 副本\KHopeClient\obj\Debug\KHopeClient.frmNode.resources
+E:\KHope\KHopeClient - 副本\KHopeClient\obj\Debug\KHopeClient.Properties.Resources.resources
+E:\KHope\KHopeClient - 副本\KHopeClient\obj\Debug\KHopeClient.csproj.GenerateResource.Cache
+E:\KHope\KHopeClient - 副本\KHopeClient\bin\Debug\KHopeClient.exe
+E:\KHope\KHopeClient - 副本\KHopeClient\bin\Debug\KHopeClient.pdb
+E:\KHope\KHopeClient - 副本\KHopeClient\bin\Debug\LayeredSkin.dll
+E:\KHope\KHopeClient - 副本\KHopeClient\bin\Debug\MiniBlink.dll
+E:\KHope\KHopeClient - 副本\KHopeClient\bin\Debug\Newtonsoft.Json.dll
+E:\KHope\KHopeClient - 副本\KHopeClient\bin\Debug\System.Data.SQLite.dll
+E:\KHope\KHopeClient - 副本\KHopeClient\bin\Debug\System.Net.Http.dll
+E:\KHope\KHopeClient2\KHopeClient\bin\Debug\KHopeClient.exe.config
+E:\KHope\KHopeClient2\KHopeClient\obj\Debug\KHopeClient.exe
+E:\KHope\KHopeClient2\KHopeClient\obj\Debug\KHopeClient.pdb

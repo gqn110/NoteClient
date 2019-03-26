@@ -1,0 +1,224 @@
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:09:32 170 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:09:32 214 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:11:57 490 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:11:57 525 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:12:09 493 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:12:09 528 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:12:30 011 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:12:30 048 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:12:32 977 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:12:40 574 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:12:40 625 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:12:48 541 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:12:48 582 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:13:35 392 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:13:35 430 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:19:04 376 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:19:04 410 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:20:52 546 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:20:52 580 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:21:43 541 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:21:43 581 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:22:07 956 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:22:08 025 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:22:22 891 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:22:22 939 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:23:51 435 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:23:51 471 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:24:23 532 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:24:23 574 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:24:43 423 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:24:43 466 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:25:13 364 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:25:13 432 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:25:43 679 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:25:43 718 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:25:48 714 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.frmNode; 方法：TxtBox_FocusedChanged; 时间：2019-03-14 20:25:48 758 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:25:51 163 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.frmNode; 方法：TxtBox_FocusedChanged; 时间：2019-03-14 20:25:51 196 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:25:55 308 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.frmNode; 方法：TxtBox_FocusedChanged; 时间：2019-03-14 20:25:55 348 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:25:55 428 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.frmNode; 方法：TxtBox_FocusedChanged; 时间：2019-03-14 20:25:55 454 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:25:58 302 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.frmNode; 方法：TxtBox_FocusedChanged; 时间：2019-03-14 20:26:09 619 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:26:09 692 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.frmNode; 方法：TxtBox_FocusedChanged; 时间：2019-03-14 20:26:14 563 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:27:32 701 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：Add; 时间：2019-03-14 20:27:32 738 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:27:33 962 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:27:47 216 错误信息：SQL logic error or missing database
+no such table: kh_node
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:33:40 903 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:33:44 330 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：Update; 时间：2019-03-14 20:33:44 436 错误信息：SQL logic error or missing database
+near "(": syntax error
+
+类名：KHopeClient.Service.KHNodeService; 方法：Update; 时间：2019-03-14 20:33:44 507 错误信息：SQL logic error or missing database
+near "(": syntax error
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:33:49 303 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：Update; 时间：2019-03-14 20:33:49 369 错误信息：SQL logic error or missing database
+near "(": syntax error
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:33:56 632 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：Update; 时间：2019-03-14 20:33:56 692 错误信息：SQL logic error or missing database
+near "(": syntax error
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:34:06 039 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:34:07 330 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：Update; 时间：2019-03-14 20:34:08 082 错误信息：SQL logic error or missing database
+near "(": syntax error
+
+类名：KHopeClient.Service.KHNodeService; 方法：Update; 时间：2019-03-14 20:34:08 151 错误信息：SQL logic error or missing database
+near "(": syntax error
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:34:20 263 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:34:39 745 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:34:41 762 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:34:44 098 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetList; 时间：2019-03-14 20:37:43 195 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:37:55 563 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:37:57 294 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.Service.KHNodeService; 方法：GetByID; 时间：2019-03-14 20:38:07 067 错误信息：输入字符串的格式不正确。
+
+类名：KHopeClient.frmNode; 方法：MenuItem0_Click; 时间：2019-03-14 20:41:54 740 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.frmNode; 方法：MenuItem3_Click; 时间：2019-03-14 20:42:11 576 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.frmNode; 方法：MenuItem0_Click; 时间：2019-03-14 20:42:35 267 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.frmNode; 方法：MenuItem0_Click; 时间：2019-03-14 20:42:49 338 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.Service.KHUserService; 方法：GetByEnabled; 时间：2019-03-15 11:02:21 962 错误信息：SQL logic error or missing database
+no such table: kh_user
+
+类名：KHopeClient.Service.KHUserService; 方法：GetByUserID; 时间：2019-03-15 11:02:36 990 错误信息：SQL logic error or missing database
+no such table: kh_user
+
+类名：KHopeClient.Service.KHUserService; 方法：ArchiveAllUser; 时间：2019-03-15 11:02:52 354 错误信息：SQL logic error or missing database
+no such table: kh_user
+
+类名：KHopeClient.frmLogin; 方法：btnLogin_Click; 时间：2019-03-25 10:29:11 548 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.frmLogin; 方法：btnLogin_Click; 时间：2019-03-25 15:49:43 521 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.frmLogin; 方法：btnLogin_Click; 时间：2019-03-25 16:53:17 617 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.frmLogin; 方法：btnLogin_Click; 时间：2019-03-25 16:54:32 784 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.frmLogin; 方法：btnLogin_Click; 时间：2019-03-25 16:54:54 857 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.frmLogin; 方法：btnLogin_Click; 时间：2019-03-25 16:55:22 084 错误信息：未将对象引用设置到对象的实例。
+
+类名：KHopeClient.frmLogin; 方法：btnLogin_Click; 时间：2019-03-26 19:19:36 486 错误信息：未将对象引用设置到对象的实例。

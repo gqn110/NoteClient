@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18C25FE8-F078-4413-85B2-660E7EB90C06}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KHopeClient</RootNamespace>
+    <AssemblyName>KHopeClient</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LayeredSkin">
+      <HintPath>..\dll\LayeredSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MiniBlink, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\MiniBlink.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.86.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http">
+      <HintPath>..\dll\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\AppConfigHelper.cs" />
+    <Compile Include="Helper\CommonMethod.cs" />
+    <Compile Include="Common\HttpHelper.cs" />
+    <Compile Include="Helper\MemoryCacheHelper.cs" />
+    <Compile Include="Common\SQLiteHelper.cs" />
+    <Compile Include="Common\CreateDefData.cs" />
+    <Compile Include="Common\Tools.cs" />
+    <Compile Include="Forms\frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmNode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmNode.Designer.cs">
+      <DependentUpon>frmNode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper\JsonExtension.cs" />
+    <Compile Include="IService\IKHNodeService.cs" />
+    <Compile Include="IService\IKHParamService.cs" />
+    <Compile Include="IService\IKHUserService.cs" />
+    <Compile Include="Model\Dto\vLoginDto.cs" />
+    <Compile Include="Model\KHNode.cs" />
+    <Compile Include="Model\Common\BaseResult.cs" />
+    <Compile Include="Model\Common\BaseResultListT.cs" />
+    <Compile Include="Model\Common\BaseResultT.cs" />
+    <Compile Include="Model\Common\CommonItem.cs" />
+    <Compile Include="Model\KHParam.cs" />
+    <Compile Include="Model\KHUser.cs" />
+    <Compile Include="Model\View\vLogin.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\KHNodeService.cs" />
+    <Compile Include="Service\KHParamService.cs" />
+    <Compile Include="Service\KHUserService.cs" />
+    <EmbeddedResource Include="Forms\frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmNode.resx">
+      <DependentUpon>frmNode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minMouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeMouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="..\dll\System.Data.SQLite.dll" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
